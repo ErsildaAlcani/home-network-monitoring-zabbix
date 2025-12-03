@@ -20,8 +20,8 @@ monitoring-home-network-zabbix/<br>
 │<br>
 ├── README.md<br>
 ├── screenshots/<br>
-│   ├── ![Add Host](screenshots/add_host_to_map.png)<br>
-│   ├── ![Zabbix Dashboard](screenshots/zabbix_dashboard.png)<br>
+│   ├── add_host_to_map.png<br>
+│   ├── abbix_dashboard.png<br>
 │   └── <br>
 ├── diagrams/<br>
 │   └── network_diagram.png<br>
@@ -34,7 +34,7 @@ monitoring-home-network-zabbix/<br>
 │   ├── configure_snmp.md<br>
 │   └── configure_map.md<br>
 ├── videos/<br>
-│   └── [Add host to zabbix demo](videos/add_host_linux_zabbix.m4v)<br>
+│   └── add_host_linux_zabbix.m4v<br>
 └── LICENSE<br>
 
 ---

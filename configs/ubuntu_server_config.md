@@ -6,7 +6,7 @@
 - **VM Software:** UTM 
 - **VM Specs:** 3 GB RAM, 8 GB Storage, Bridged Network  
 - **VM IP Address:** 192.168.0.137  
-- **Host IP Address:** 192.168.0.244  
+- **Host IP Address:** 192.168.0.224  
 - **Ubuntu Version:** 24.04.3 ARM64  
 
 > Birdged Network allows the VM and host to be on the same network, allowing access from other network devices.
