@@ -11,9 +11,10 @@ Click the “Create host” button in the top right corner.
 3.  Fill in Host Details
 
 
-##### Host name: linux.
-##### Groups: Linux servers & personal usage (a new group already created).
-##### Interfaces:
+Host name: linux. <br>
+Groups: Linux servers & personal usage (a new group already created). <br>
+Interfaces: Agent (or SNMP, JMX, IPMI)<br>
+Port: Default 10050 <br>
 
 ---
 

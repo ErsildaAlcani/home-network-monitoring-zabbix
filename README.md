@@ -40,7 +40,7 @@ monitoring-home-network-zabbix/<br>
 ---
 
 
-## What can be done?
+## Use Cases
 
 - Monitor a network device using zabbix agent.
 - Monitor a windows network device using SNMP service.
